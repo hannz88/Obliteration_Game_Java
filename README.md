@@ -48,7 +48,7 @@ The computer will then take its turn and print out the board. The computer's ter
 The aim of the game is to be the last person to dominate the board. So, whoever plays the last turn will be declared the winner. If the computer wins, you should see a version of the following picture printed out.
 
 <p align="center">
-    <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/astalavista.png" alt="The T1000">
+    <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/astalavista.jpg" alt="The T1000">
 </p>
 
 Have fun! And if you have any suggestion for improvements, I'm all ears!
