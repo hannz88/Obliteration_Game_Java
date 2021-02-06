@@ -164,7 +164,9 @@ public class Game {
 
     public void declareWinner() throws Exception{
         if(this.currentContestant.equals("Player")){
-            System.out.println("Congratulations! You've won! Have a cookie!");
+//            System.out.println("Congratulations! You've won! Have a cookie!");
+            printStringWithTime("Congratulations! You've won! Have a cookie!", 1500);
+            player.playerWon();
         } else {
             System.out.println("The machine has won. The matrix remains.");
             this.printCharWithTime("...    ...", TimeUnit.MILLISECONDS, 500);
