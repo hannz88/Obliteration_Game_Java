@@ -25,7 +25,7 @@ Next, you'll be asked to set a SINGLE alpha-numerical character to represent you
 </p>
 
 ### 3. Announcing the details
-Here, you'll be informed of the size of the board you chosen, the character that represents you and the character that represents the computer...along with "Link start-o!" (Anyone gets the reference to SAO?). Then, the state of the board will be printed. In the example below, the board was 10x10, the player's character is "e" and the computer's character is "x". In repl and most IDEs, the player's character should show up as blue and the computer's as yellow.
+Here, you'll be informed of the size of the board you chosen, the character that represents you and the character that represents the computer...along with "Link start-o!" (Anyone gets the reference to SAO?). Then, the state of the board will be printed. In the example below, the board was 10x10, the player's character is "e" and the computer's character is "x". In most IDEs, the player's character should show up as <div class="text-blue mb-2"> blue </div> and the computer's as yellow. In the repl link, the colour looks a bit weird.
 
 <p align="center">
     <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/Announcing_details.png" alt="Announcing the details of the game">
