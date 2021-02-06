@@ -117,6 +117,7 @@ public class Game {
                 this.gameAskMachineMove();
                 displayInput = newBoard.getBoard();  // input to feed into display
                 display.displayBoardContent(displayInput);
+                System.out.println();
                 if (newBoard.isFullyOccupied() == true) {
                     this.currentContestant = "The Machine";
                     gameFinish = true;
