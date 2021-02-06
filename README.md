@@ -45,7 +45,7 @@ The computer will then take its turn and print out the board. The computer's ter
 </p>
 
 ### 5. How is the winner decided?
-The aim of the game is to be the last person to dominate the board. So, whoever plays the last turn will be declared the winner. If the computer wins, you should see a version of the following picture printed out.
+The aim of the game is to be the last person to dominate the board. So, whoever plays the last turn will be declared the winner. If the computer wins, you should see a version of the following picture printed out. And when player wins? You get a cookie :laughing:
 
 <p align="center">
     <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/astalavista.jpg" alt="The T1000">
