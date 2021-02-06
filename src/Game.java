@@ -101,7 +101,8 @@ public class Game {
         boolean gameFinish = false;  //
         String[][] displayInput = newBoard.getBoard();  // input to feed into display
         System.out.println("The current board:");
-        display.displayBoardContent(displayInput);    ;
+        display.displayBoardContent(displayInput);
+        System.out.println();
         try {
             while (gameFinish == false) {  // while game is not finished
                 printStringWithTime("It's your turn.", 1000);
@@ -143,7 +144,7 @@ public class Game {
                 System.out.println("The input is not valid.");
             }
         }
-        System.out.format("The coordinate you've chosen is (%d,%d)\n", player.getPlayerRowCoord(), player.getPlayerColCoord());
+        System.out.format("The coordinate you've chosen is (%d,%d).\n\n", player.getPlayerRowCoord(), player.getPlayerColCoord());
         // set the board
 
     }
