@@ -26,8 +26,10 @@ public class Game {
         // get the machine to randomly set itself
         theMachine = new Machine(newBoard.getBoardWidth(), player.getContestantSymbol());
         // introduce the board, player and the machine
+        System.out.println();
         this.introduction();
         // play the game
+        System.out.println();
         this.playGame(sc);
         // declare who won
         this.declareWinner();
