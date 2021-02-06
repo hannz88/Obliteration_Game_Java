@@ -9,7 +9,6 @@
 import java.util.Scanner;
 
 class Main {
-    private String lastPlayer;
     private static Game game;
     public static void main(String[] args) {
         System.out.println("Hello world!");

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Random;
 
-public class Machine extends Contestants{
+public class Machine extends Contestant {
 
     private static final String upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String lower = upper.toLowerCase(Locale.ROOT);

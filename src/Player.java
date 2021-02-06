@@ -1,9 +1,8 @@
-import javax.imageio.IIOException;
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-public class Player extends Contestants{
+public class Player extends Contestant {
     private int playerRowCoord;
     private int playerColCoord;
     public static final String ansi_RESET = "\u001B[0m";

@@ -66,9 +66,6 @@ public class Board {
         return false;
     }
 
-
-
-
     public boolean isFullyOccupied(){
         // method to check if the board is fully occupied
         if (totalSpacesAvailable <= 0){
@@ -76,7 +73,6 @@ public class Board {
         }
         return false;
     }
-
 
     public String[][] getBoard(){
         // return 2d array of symbols

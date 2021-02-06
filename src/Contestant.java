@@ -1,9 +1,9 @@
-public class Contestants {
+public class Contestant {
     public String symbol;
     private int rowLim;
     private int colLim;
 
-    public Contestants(String j, int width){
+    public Contestant(String j, int width){
         // constructor
         this.symbol = j;
         this.rowLim = width;
