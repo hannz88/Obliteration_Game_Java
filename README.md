@@ -7,7 +7,7 @@
 This is a Obliteration game I wrote using Java. For more information about the game, have a look at [here](http://www.papg.com/show?2XMX). 
 
 ## Where
-To play the game, simply click on this [link](). It'll bring you to a repl page. Click on the `Run` button follow the prompts.
+To play the game, simply click on this [link](https://repl.it/@hannz88/ObliterationGameJava). It'll bring you to a repl page. Click on the `Run` button follow the prompts.
 
 ## How to play
 ### 1. Set the desired width
