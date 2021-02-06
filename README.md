@@ -6,6 +6,12 @@
 ## Introduction
 This is a Obliteration game I wrote using Java. For more information about the game, have a look at [here](http://www.papg.com/show?2XMX). 
 
+## Table of Content
+
+- [Where](#where)
+- [How to  play](#how-to-play)
+
+
 ## Where
 To play the game, simply click on this [link](https://repl.it/@hannz88/ObliterationGameJava). It'll bring you to a repl page. Click on the `Not yet run` button or the play button and follow the prompts.
 
@@ -49,6 +55,13 @@ The aim of the game is to be the last person to dominate the board. So, whoever 
 
 <p align="center">
     <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/astalavista.jpg" alt="The T1000">
+</p>
+
+## Relationship diagram
+If you're interested in how the classes are related to each other, here's a diagram that summarised the relationships!
+
+<p align="center">
+    <img src="https://github.com/hannz88/Obliteration_Game_Java/blob/main/Images/Obliteration_Game_Java.png" alt="Relationship diagram of the classes">
 </p>
 
 Have fun! And if you have any suggestion for improvements, I'm all ears!
